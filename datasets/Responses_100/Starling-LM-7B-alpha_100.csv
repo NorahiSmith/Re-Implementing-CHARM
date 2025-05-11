@@ -1,0 +1,747 @@
+prompt,response,score_internlm/internlm2-1_8b-reward,score_Ray2333/GRM-Llama3-8B-rewardmodel-ft,score_RLHFlow/ArmoRM-Llama3-8B-v0.1
+Is having your medical records online safe?,"It can be, especially when you follow some important steps to protect your personal health information. Here are some tips to keep your medical information safe when it’s online:
+
+1. Use a secure network: Always access your medical records through a secure network. This means using a secure wireless network, like the one in your home or office, rather than a public Wi-Fi network. Public networks may not be secure, and hackers could steal your information.
+2. Create strong password",0.365234375,-11.0234375,0.10546875
+"You are a book summarizer, summarize the book: Think and Grow Rich
+
+Write a summary for each chapter
+Create a list of all the lessons from the book","Summary of each chapter:
+
+1: Introduction: The Power of Thought
+- The book's central premise is that thoughts can shape your financial destiny.
+- The author, Napoleon Hill, spent over 20 years researching the principles of success.
+- He interviewed over 500 successful people, including Andrew Carnegie, Henry Ford, and Thomas Edison.
+- The book aims to teach readers how to harness the power of their",-1.34765625,-15.1875,0.107421875
+Are there any ingredients that are added to supplements that I should avoid?,"If you are concerned about specific ingredients in dietary supplements, it's essential to read the label and understand the Supplement Facts panel. This will allow you to make an informed decision about which products to purchase and consume. Here are a few ingredients that some consumers choose to avoid:
+
+- Artificial colors: Some individuals prefer to avoid supplements with artificial colors, such as FD&C Yellow No. 5 (Tartrazine) and FD&",-0.431884765625,-12.6875,0.08154296875
+Explain like I'm five years old: Who gets paid when one buys a domain and how are they in the position to sell domains?,"When you buy a domain name, you are paying for a service that allows you to use that name for your website. The company that you buy the domain from is in the position to sell domains because they own the rights to the domain names and they sell them to people who want to use them. They make money by charging a fee for the service of selling and managing the domain names.
+
+Here's a simplified explanation: Imagine you want to start a lemonade stand and",0.0623779296875,-15.9921875,0.11376953125
+Write an article about why test fakes are a better test double than mocks and stubs.,"Test doubles are a vital tool for creating isolation in tests. There are several types of test doubles, but the most common ones are mocks, stubs, and fakes. While mocks and stubs have their own benefits, there are situations where test fakes can be a better test double than mocks and stubs. Here are some reasons why test fakes can be a better choice:
+
+1. Test fakes provide a realistic interface: Unlike mocks",-1.3388671875,-14.0234375,0.10693359375
+"How can I use SQL to extract data related to tax codes for multinational corporations from a complex and convoluted database? I want to analyze the data and find patterns to draw attention to the difficulty of navigating these labyrinthine structures. Can you provide a SQL query or example of how to approach this task?
+Here is an example SQL query that extracts data from a database containing tax information for multinational corporations:
+SELECT company_name, tax_code, revenue
+FROM multinational_corporations
+WHERE tax_code LIKE '%complex%' OR tax_code LIKE '%convoluted%'
+ORDER BY revenue DESC;
+This query selects the company name, tax code, and revenue for each multinational corporation in the database where the tax code contains the words ""complex"" or ""convoluted"". The results are then ordered by revenue in descending order.","Please note that the actual SQL query will depend on the specific structure and naming conventions of your database. You may need to adjust the table and column names, as well as the conditions in the WHERE clause, to match your database schema.
+
+To analyze the extracted data and identify patterns, you can use various statistical methods, visualization tools, or data analysis software. For example, you can calculate the average revenue for each tax code category, create a pie chart to visualize",-1.8447265625,-18.5,0.0791015625
+Can you give me an example of what to eat for 1500 calories in a day?,"Here’s a balanced 1500-calorie meal plan that you can try:
+
+Breakfast:
+
+- 1/2 cup cooked oatmeal with 1/2 cup skim milk, 1 tablespoon brown sugar and 1/2 banana
+- 1 cup black coffee or tea
+
+Lunch:
+
+- 3 ounces grilled chicken breast
+- 1 cup mixed greens
+- 1/",0.0016660690307617,-10.2265625,0.078125
+"I'm going camping in an area with some bears. If I come across one, what should I do to remain safe?","The most important thing is not to surprise the bear, so make noise and let it know you are there. If you are camping, never keep food in your tent or sleeping area. Store it in a bear-resistant container, or hang it in a tree at least 10 feet off the ground and 4 feet away from the tree trunk. If you encounter a bear, do not run, but slowly back away, making noise so the bear knows you are there.",0.98828125,-8.2421875,0.12890625
+How to compensate sunk cost concerns with Bayesian inference,"Cognitive biases are a major source of irrational decision-making. One common bias is the sunk cost fallacy, where decision makers are influenced by previous investments, which have no impact on the current and future value of a project. This paper presents a framework for compensating sunk cost concerns by leveraging Bayesian inference. We propose to introduce a set of informative priors that reflect the past experience of the organization, and to incorporate the available information in",-2.177734375,-14.3203125,0.1044921875
+Why were Vietnam war veterans treated badly?,"The Vietnam War veterans were treated badly because of the widespread anti-war movement that took place in the United States during the late 1960s and 1970s. Many people in the United States were against the war and believed that the U.S. should not be involved in Vietnam.
+
+As a result, when the soldiers returned home, they were often greeted with hostility and disrespect. Some people even spit on them or called them names",-1.24609375,-9.3203125,0.07080078125
+"The given sentence contains a typo which could be one of the following four types: (1) swapped letters of a word e.g. 'niec' is a typo of the word 'nice'. (2) missing letter in a word e.g. 'nic' is a typo of the word 'nice'. (3) extra letter in a word e.g. 'nicce' is a typo of the word 'nice'. (4) replaced letter in a word e.g 'nicr' is a typo of the word 'nice'. You need to identify the typo in the given sentence. To do this, answer with the word containing the typo.
+
+Example Input: Basrball pitcher in process of throwing a pitch.
+Example Output: Basrball
+
+Example Input: An epty kitchen with white and black appliances.
+Example Output: epty
+
+Example Input: A trqain blowing out lots of steam and smoke.
+Example Output:","trqain
+
+The given sentence is: ""There are so many people in the street, it is difficult to walk.""
+The correct option is: street
+
+Explanation: The correct spelling of the word is 'streat'. The typo is due to the replacement of the letter 'e' with the letter 'r'.
+
+Reference:
+1. Swapped letters: https://en.wikipedia.org/wiki/Typosquatting
+2. Miss",-0.49853515625,-11.640625,0.033203125
+"How can I use MATLAB to model the relationship between weather factors (temperature, humidity, air pressure, etc.) and medical conditions (asthma, migraines, heart attacks, etc.) for a healthcare data analysis project? Additionally, the model should consider the impact of geographical location on the relationship between weather patterns and patient outcomes. Can you provide an example code that can generate visualizations of the effects of these weather patterns on patient outcomes using MATLAB's matplotlib equivalent?","Here's a step-by-step guide to address your healthcare data analysis project:
+
+1. **Data Collection**: To begin, you need to gather data on the weather factors (temperature, humidity, air pressure, etc.) and the medical conditions (asthma, migraines, heart attacks, etc.) for the geographical location of interest. You can use MATLAB's `readtable` function to import this data from a CSV file.",-1.482421875,-16.3125,0.09814453125
+Explain like I'm five years old: Can you give me an understandable example of money laundering? So say it’s a storefront that sells art but is actually money laundering. How does that work? What is actually happening?,"Money laundering is a bit like making dirty clothes clean. People who make money in illegal ways don't want anyone to know. So, they try to hide the money they got from doing bad things, just like someone would hide their dirty clothes.
+
+In our art store example, let’s pretend a bad guy named Mr. Bad wins a lot of money from gambling, which is illegal. He doesn't want anyone to know that he was gambling, so he",-1.1240234375,-12.6015625,0.1416015625
+"As an oceanographer exploring the depths of the Arctic Ocean, you come across a new species of deep-sea fish with the ability to camouflage itself as any other fish in its surroundings. Can you develop a method to identify and track this elusive fish without disturbing its natural habitat?","To accomplish this task, you can use machine learning algorithms to analyze the fish's unique features and track its movements without causing any harm. Here's a step-by-step guide on how to approach this problem:
+
+1. **Data Collection:** Collect high-resolution images of the fish in various environmental conditions and with different fish species in the background. Ensure that the images are diverse and representative of the fish's natural habitat.
+
+2. **Data Pre",-0.615234375,-14.9609375,0.11669921875
+What safety tips are good to teach a kid that is going to a concert without parent supervision?,"Here are a few tips from our friends at the National Crime Prevention Council:
+
+1. Go with a buddy or a group: Going to a concert with friends can be a lot more fun, and you can all look out for each other. If you don’t know anyone at the concert, try to make friends with the people around you.
+2. Know where you are going and how to get there: Before you go, make sure you know where the concert is, and",-1.07421875,-10.4609375,0.10400390625
+What would you do if you found a dead body in a hotel room?,"That is precisely what happened to a guest at the Grand Hyatt hotel in Sydney, Australia recently.  It was a shocking experience and the guest was left feeling very frightened.
+
+The guest found the body after checking into a room on the 32nd floor.  She was so terrified that she immediately left the hotel and returned to her home.
+
+The police have not yet confirmed the circumstances around the death of the body, but it is believed to be that",-0.7431640625,-14.359375,0.0216064453125
+Making a well and slowly incorporating flour: Why? Lots of recipes tell you to make a well in the center of the flour and slowly incorporate your water/eggs etc. What's the reason for this? Is it necessary? If you are using a kitchenAid or similar is it still necessary or can you dump everything in at once?  Thanks,"!
+
+Here's a few thoughts from the community:
+
+1. The well method is typically used when you're making dough with eggs, not just water. It's a gentler way to mix the dough and incorporate the egg yolks. The egg yolks are added one at a time and the dough is mixed slowly around the yolk until it's incorporated. This prevents overmixing and breaking of the yolks. Here's a great",-0.7392578125,-10.6953125,0.1318359375
+"given this background information delimited in """"""
+""""""
+Magnetotactic bacteria from Pavilion Lake, British Columbia
+Introduction
+Magnetotactic bacteria (MTB) have been found in a variety of aquatic sediments such as marine environments, freshwater lakes and rivers, hot springs, and brackish waters all over the world . In these settings, MTB tend to reside in chemically stratified water or sediment at the oxic-anoxic interface. The common feature that is unique to all MTB is their ability to synthesize intracellular membrane-bound crystals of single domain magnetite (Fe3O4) and/or greigite (Fe3S4) . The magnetosomes provide a torque on the cells that passively aligns them with the Earth's geomagnetic field. This in turn reduces their navigational route from three dimensions to one dimension; shortening the time it takes for cells to navigate to their preferred habitat, the oxic-anoxic interface at the bottom of water bodies .
+
+Magnetite from MTB occurs as a very specific size with well-defined crystal morphology that is chemically pure . Such minerals are preserved in the rock record as “magnetofossils,” which have been found in Mesozoic rocks, and may extend back as far as the pre-Cambrian . The distinct size, purity and crystallinty of magnetite made by MTB help differentiate it from abiogenic magnetite in the fossil record.
+
+This study investigates uncultured MTB from Pavilion Lake, a deep, slightly alkaline, freshwater lake in British Columbia. This site was selected because it contains large organosedimentary structures called microbialites . Such structures abound in the fossil record back to nearly 3.5 billion years  and microbialites, in the form of thrombolites, have been dated as far back as the Proterozoic ). The MTB that we isolated from Pavilion Lake belonged to the Alphaproteobacteria class. Transmission electron microscopy was used to determine the morphology of the cells, and the size and shape of magnetosomes. Scanning transmission electron microscopy was used to determine the chemical composition of the magnetosomes. This is the first time MTB have been described from a microbialite-forming environment. This discovery could be of great value to others interested in potential life forms on other planets or the earliest forms of life on Earth as Pavilion Lake contains microbial fossils in the freshwater microbialites.
+""""""
+Pull out all of the descriptions of the unique features and characteristics of magnetotactic bacteria (MTB) mentioned in the reference passage. Present the parsed information in a concise, bulleted format, with 1 sentence per bullet. There should be no more than 8 sentences.","- Magnetotactic bacteria (MTB) are found in aquatic sediments such as marine environments, freshwater lakes and rivers, hot springs, and brackish waters all over the world.
+- MTB reside in chemically stratified water or sediment at the oxic-anoxic interface.
+- MTB synthesize intracellular membrane-bound crystals of single domain magnetite (Fe3O4) and/",-0.423583984375,-13.96875,0.07275390625
+Explain like I'm five years old - where does skin in your body stop being skin? Is the roof of the mouth skin? The back of the throat? How does skin attach and transition to non-skin flesh?,"Here's an image to give you an idea of where I'm asking:
+
+[link to image removed - see below]
+
+There's a lot of skin on the human body, and it's all over the place. But, it doesn't cover everything. For example, the inside of your mouth, your tongue, the roof of your mouth, and the back of your throat are not covered by skin. Instead, they are lined with a different",-1.4111328125,-15.0859375,0.091796875
+"Q: Given a fact, create a question that can be answered using the fact. Construct the question such that it is unambiguous, has a unique answer and the answer can be given using the fact.
+Fact: an animal requires enough nutrients to survive
+A:","What does an animal need in order to live?
+
+Fact: an animal requires enough nutrients to survive
+A: What is essential for an animal's survival?
+
+Fact: an animal requires enough nutrients to survive
+A: What does an animal need in order to maintain its health and well-being?
+
+Fact: an animal requires enough nutrients to survive
+A: What is necessary for an animal's sustenance and overall health?",0.259521484375,-8.3125,0.06103515625
+"These were taken last Monday at the beach . No , they were not trying to build a sand castle . They were digging for their own tidal pool since the little man did n't want to get in the water alone and his parents were afraid of the water They spent a good half hour digging two holes . The first was too far from the water and the second got dumped with sand by the coming waves .
+
+Give answer the following question using evidence from the above passage: What may happen if the waves did nt crash in ?","The answer is: The second hole would have been good to use as a tidal pool .
+
+Explanation: As per the passage , the parents were afraid of the water and hence they wanted a tidal pool . The second hole that they dug was good enough for them but it was dumped by the waves that came later .
+
+Here are some more questions :
+
+1) What were the two holes used for ?
+
+2) Why did they dig the",-1.1591796875,-16.859375,0.1064453125
+"When people discuss ""mutually assured destruction"" in terms of warfare, what do they mean?","Mutually Assured Destruction (MAD) refers to a military and political doctrine that relies on the threat of massive retaliation as a deterrent to aggression. It is based on the principle that a full-scale use of nuclear weapons by two or more opposing sides will result in each side suffering unacceptable casualties and devastation. The concept of MAD emerged during the Cold War between the United States and the Soviet Union, when both nations possessed nuclear ar",0.56103515625,-9.40625,0.1181640625
+"Career outside academia after postdoc In a few months I will finish my postdoc and I started looking for jobs outside academia. I took this decision because research does not give me the gratification I imagined when I first started my academic career, and I feel that the precariousness related to short term contracts is impeding my personal and familiar life. I have a background in conservation biology, so I already started looking for jobs in this field with NGOs, consulting firms and environmental agencies, but I would consider jobs in other fields as well. In addition to field-specific skills, I also developed generic skills as planning research, writing projects, conducting literature review, writing scientific papers and reports, etc… So, I am trying to figure out how to take advantage of this expertise in jobs other than research. Do you have suggestions on which jobs could value this kind of skills? “Grants coordinator” could be an example, but hopefully you can suggest other options I had not thought of.  Thank you for any advice","you can provide.
+
+Dear colleague,
+
+Congratulations for your decision of looking for a job outside academia. It is never easy to change paths, but it may be the best decision for you, especially if research does not provide the satisfaction you imagined when you first started your academic career.
+
+Having a background in conservation biology, it is great that you are looking for jobs in this field, but it is also good to explore other fields that could",-2.798828125,-16.09375,0.052490234375
+What are some of the most important traits that one can cultivate in order to become a better leader? Please provide at least three examples.,"1. Empathy: Understanding and sharing the feelings of others is an essential trait for any leader. Being empathetic allows a leader to connect with their team members on a deeper level, which can help to foster trust and collaboration. Additionally, empathy can help a leader to identify the needs and concerns of their team, which can lead to better decision-making and problem-solving.
+
+2. Communication: Effective communication is crucial for any leader. Being able",-1.2021484375,-11.6328125,0.12353515625
+"Which land animal holds the record for the fastest sprint speed, spanning a distance of 100 meters or less, within a specific biome such as grasslands or deserts?","The cheetah (Acinonyx jubatus) is the fastest land animal with a sprint speed of 60 to 70 miles per hour (97 to 113 kilometers per hour). Cheetahs are the fastest sprinters on land, but they can only maintain this speed for a short distance. Their top speed is achieved over short distances, typically less than 1,000 feet (300 meters). Cheetah",-0.297119140625,-15.8203125,0.0986328125
+10 best kinetic exercises to practice speaking in an ESL or ELL class,"1. Role Playing. Role-playing is an excellent method to practice speaking and listening skills in English. Create a situation and assign roles to your students. Ask them to act out the scene with their assigned role.
+
+2. Debates. Debate topics can be chosen by you or by the students. Choose a topic that is controversial and of interest to your students. The students can choose whether they agree or disagree with the statement.
+
+3. Group Discuss",-2.02734375,-12.9453125,0.107421875
+Who is the top country singer right now?,"It’s a difficult question to answer, as there are so many talented artists in the genre. But one name that consistently comes up in conversations and on charts is Luke Bryan.
+
+Luke Bryan has been a dominant force in country music for over a decade. With numerous chart-topping hits and multiple awards, he has proven himself as one of the best in the business. His unique blend of traditional country sounds with modern pop influences has resonated with fans, earning him a dedicated following",0.4521484375,-10.203125,0.0673828125
+"Given the task definition, example input & output, solve the new input case.
+In this task, you are given a sentence and a gender. The sentence mentions two professions: one's gender is unknown and the other's gender can be identified using the gendered pronouns that refer to them in the text. You are expected to return the profession with the given gender.
+Example: Sentence: The chief refused to help the attendant with the car because that was his job.
+ Gender: male
+Output: Attendant
+The pronoun ""he"" is linked to the attendant rather than the chief.
+
+New input case for you: Sentence: The mechanic fixed the housekeeper 's car and then he wrote a thankful note.
+ Gender: male
+Output:","Mechanic
+
+In the given sentence, the gendered pronoun ""he"" refers to the mechanic rather than the housekeeper, since the pronoun is linked to the action of writing a thankful note, and the housekeeper doesn't perform this action.
+
+The correct answer is Mechanic.
+
+Here's some Python code to solve this problem:
+```python
+def find_gender(sentence, gender):
+    pronouns = [""",-0.44091796875,-10.0546875,0.05126953125
+"Detail: The proposal should include a description of the rationale for the program, target population, program goals and objectives, the proposed services or interventions, program management and evaluation plan, and an estimated budget. The style should be professional and persuasive, with clear and concise language and appropriate use of graphics and tables to support the proposal.","The proposal should be formatted as follows:
+
+1. Cover Page: Include the name of the program, the name and contact information of the program director, and the name and contact information of the submitting organization.
+
+2. Table of Contents: Provide a detailed outline of the proposal, including all sections and subsections.
+
+3. Introduction: Provide an overview of the program, including the rationale for the program, target population, and program",-2.185546875,-15.34375,0.06591796875
+Can you list the benefits of showering in super cold water?,"1. Reduces inflammation: Cold water can help reduce inflammation in the body. It works by constricting blood vessels, which can help reduce swelling and pain associated with inflammation. This can be particularly beneficial for people who suffer from chronic inflammatory conditions such as arthritis.
+
+2. Boosts immune system: Cold showers can stimulate the immune system, helping to fight off illness and disease. The cold water",-0.48486328125,-11.859375,0.11083984375
+"In this task, you are given a sentence in the Gujarati language and your task is to convert Gujarati sentence into the English language.
+
+[Q]: એક યુવાન માણસ એક મહિલા સાથે એક ચિત્ર માટે ઊભુ કરે છે જે કાળા અને સફેદ રંગના પટ્ટાવાળી દિવાલોવાળા ખંડમાં પ્રતિબિંબિત થાય છે.
+[A]: A young man poses for a picture with a woman who is being reflected in a mirror in a room with black and white striped walls.
+
+
+[Q]: અખબારના આર્ટિકલ ક્લિપીંગ્સમાં આવરી લેવામાં આવેલા સફેદ રૂમની અંદરના દિવાલ
+[A]: A wall inside of a white room covered in lots of newspaper article clippings.
+
+
+[Q]: મોટર બાઈક પરની એક વ્યક્તિ કેટલાક ગાયની બાજુમાં રસ્તાની નીચે સવારી કરે છે
+[A]:","A person rides a motorbike down the road near the riverbank
+
+
+[Q]: દાંબ પર સુધારેલા દ્વિપક્ષ માટે એક દ્����",-1.2763671875,-14.9140625,0.043212890625
+Is it hard to become an air traffic controller?,"Yes, it is hard to become an air traffic controller, but it is well worth the effort. Here are some tips to make the process easier and more enjoyable.
+
+The Federal Aviation Administration (FAA) has a strict training program for air traffic controllers. The FAA requires applicants to have at least three years of experience in a related field, such as aviation maintenance, air traffic control, or avionics. You will also need to pass a thorough background check",0.042388916015625,-11.5859375,0.07421875
+"You are given a set of scrambled words: ""nncaot, ebdeunr, sasnglie, crorpythgao, krolye"". Your task is to unscramble them and form a coherent sentence that relates to the field of data security. Good luck!","Here are some tips to get you started:
+
+1. Try to identify the main subject of the sentence. In this case, it's likely to be related to data security.
+
+2. Break down the scrambled words into smaller units, such as syllables or individual letters. This will help you to identify the correct order of the letters.
+
+3. Look for common words or phrases that can be formed from the scrambled words. This will",-2.171875,-19.59375,0.0322265625
+"""I want you to act as a copy of client suggestions input the Excel sheet. Your task is to record the client's suggestions for improving the copy and write them down exactly as they are spoken. You should not offer any commentary or suggestions of your own.","You will enter this information into the Excel sheet at the end of each day. Here are some guidelines for you to follow:
+
+1. You should not interrupt the client while they are speaking.
+2. If the client repeats a suggestion, you should write it down again.
+3. You should write down the client's suggestions exactly as they are spoken, without any grammatical or spelling corrections.
+4. If the client offers several suggestions at once, you",-1.0625,-14.21875,0.0625
+"Solve the following puzzle to predict the future of a stock: 
+If a company's current stock price is $100 and the price increases by 5% each day for the next 5 days, what will be the new stock price? 
+Hint: Use the formula P = P₀(1+r)ⁿ where P₀ is the initial stock price, r is the daily percentage increase, and n is the number of days.","The first step to solve this problem is to identify the variables in the given formula:
+
+- P₀ = Initial stock price = $100
+- r = Daily percentage increase = 5% = 0.05
+- n = Number of days = 5
+
+Now, plug in these values into the formula P = P₀(1+r)ⁿ:
+
+P = $100(1+0",-0.70166015625,-11.53125,0.09423828125
+Name some transition words in English that are commonly used in academic writing and have multiple meanings depending on the context in which they are used.,"In academic writing, some of the most commonly used transition words in English include:
+
+1. Therefore: This can be used to show the result or consequence of a preceding statement or argument. For example, ""Because of the high demand for the product, the company's profits have increased significantly; therefore, it's essential to maintain the production levels.""
+
+2. However: This can be used to introduce a contrasting idea or exception to a preceding statement.",-0.395263671875,-14.9765625,0.138671875
+"Restaurant Rice? When I go to Japanese restaurants, their rice is somehow yummier than what I can cook!  I got a simple rice cooker which does a decent job (better than stove top) but not quite the same.  I asked for rice cooking tips once and they said to wash the rice before cooking.  I do wash the rice, which improves slightly.  Just not as sticky or flavorful.   So what can I do to make rice taste as good as how they prepare it in Japanese restaurants?","- Start with the right rice.  It's all about the rice.  There are different types of rice used in Japanese cooking.  For sushi, you'd use sushi rice (Calrose is a common variety in the US).  For onigiri, you'd use short grain rice.
+
+- Wash and rinse the rice.  This removes excess starch that can make the rice sticky.  Keep rins",-1.46875,-13.6328125,0.1328125
+"Can French Defence initial move defend against four move checkmate?
+Rationale first then the answer.
+The French Defence involves moving pawn in front of the queen forward two spaces. The four move checkmate involves moving the queen and bishop to crowd the king. The four move checkmate cannot be defended by pawn in front of queen.. The answer is: no.
+
+Is Europa linked to Viennese waltzes?
+Rationale first then the answer.
+Europa is a moon of Jupiter. Europa played an important role in Stanley Kubrick's film 2001: A Space Odyssey. The soundtrack to 2001: A Space Odyssey prominently featured The Blue Danube. The Blue Danube is a famous Viennese waltz composed by Johan Strauss II.. The answer is: yes.
+
+Is it okay to lie after taking an oath in a court of law?
+Rationale first then the answer.
+","Taking an oath in a court of law means that a person is promising to tell the truth. Lying is the act of making a false statement with the intent to deceive.. The answer is: no.
+
+Can a single person have a double chin?
+Rationale first then the answer.
+A double chin is a condition where there is an excess fat under the chin. A single person can have excess fat in any part of their body.. The answer is: yes.",0.04510498046875,-12.5859375,0.1015625
+"I am taking a business trip to   Lake Tahoe, CA  next month. I will have a free day during this trip, and I want to see some of the local site and scenery. Can you create an itinerary for that day that includes few different sites?","Here is an itinerary for your free day in Lake Tahoe:
+
+Morning:
+
+- Breakfast at Blue Angel Cafe: Start your day with a delicious breakfast at this popular local spot. Enjoy dishes like the Blue Angel Benedict or the Chorizo Burrito.
+
+- Walk around the Lake Tahoe Trail: After breakfast, take a leisurely stroll along the Lake Tahoe Trail. This scenic trail offers beautiful",-1.443359375,-15.0546875,0.10791015625
+"Please write a 150-word short bio for a personal trainer, including their experience and qualifications, client approach, and any relevant accomplishments. The bio should be written in a professional yet approachable tone, with an emphasis on the trainer's passion for fitness and dedication to helping clients achieve their goals. Avoid using technical jargon and instead focus on clearly communicating the trainer's philosophy and approach to training. It would also be helpful to include information about the type of clients the trainer typically works with and any particular areas of expertise they have. Overall, the bio should showcase the trainer's professionalism and expertise while also conveying their friendly and personable style.","Amy, a highly experienced personal trainer with over 10 years of expertise in the fitness industry, is dedicated to helping her clients achieve their health and wellness goals. With a degree in exercise science and multiple certifications, including a specialization in senior fitness, Amy is well-equipped to deliver tailored training programs for clients of all ages and fitness levels. Her approachable and supportive demeanor, combined with her passion for fitness, has earned her a loyal following of",-1.5166015625,-12.515625,0.1357421875
+"There is a project I want to build that requires an ESP 8266 Lolin Mini D1.
+
+This is what the wiring in ESPHome looks like:
+
+```yaml
+output:
+ - platform: gpio
+ pin: 14
+ id: relay2 # HS2 / RJ45 Pin 6 / ESP D5
+ inverted: true
+ - platform: gpio
+ pin: 12
+ id: relay1 # HS1 / RJ45 Pin 7 / ESP D6
+ inverted: true
+ - platform: gpio
+ pin: 13
+ id: relay0 # HS0 / RJ45 Pin 8 / ESP D7
+ inverted: true
+```
+
+I want to use an ESP32S instead. How do I wire this up?","1. The ESP32S has 3.3V and GND pins, which should be used for power.
+2. D2, D3, and D4 on the ESP32S should be connected to the ESP8266’s D5, D6, and D7 pins, respectively.
+3. D0 on the ESP32S should be connected to the ESP8266’s GPIO12 pin.",-1.3017578125,-13.5703125,0.11376953125
+"In this task, you are given an adjective, and your job is to generate its antonym. An antonym of a word is a word opposite in meaning to it.
+Q: lie
+A: ","1. truth
+2. honesty
+3. integrity
+4. sincerity
+5. veracity
+6. candor
+7. frankness
+8. straightforwardness
+
+Explanation: A lie is an intentionally false statement, and the opposite of lying would be telling the truth, honesty, integrity, sincerity, veracity, candor, frankness, and straightforwardness.
+
+To get the antonym of lie, you should",-1.0556640625,-12.28125,0.025634765625
+How can I learn to make wine at home?,"There are several ways to learn how to make wine at home. Here are a few options:
+
+1. Online tutorials and videos: The internet is a wealth of information. You can find step-by-step tutorials, videos, and articles on how to make wine at home. Websites like Instructables and YouTube offer a wide variety of resources for beginners.
+
+2. Books: There are many books available on the topic of home winemaking",-0.262939453125,-8.5859375,0.07958984375
+How should I prepare to go hiking?,"To prepare to go hiking, you should start by getting in shape. Hiking can be physically demanding, so it's important to be in good physical condition. Start by walking or jogging regularly, and gradually increase the distance and intensity of your workouts.
+
+Once you're in good shape, you'll need to choose the right hiking gear. This includes comfortable, supportive hiking boots, moisture-wicking clothing, and a backpack to carry essentials",-0.0154495239257812,-11.4453125,0.08056640625
+"Examine the impact of technological advances on the beauty industry and evaluate how salons and spas are adapting to new tools and techniques to enhance customer experience and optimize business operations. Consider factors such as the rise of online booking systems, social media marketing, mobile apps, virtual makeovers, 3D printing for customized products, and other emerging technologies that may revolutionize the future of beauty services. Provide examples of successful case studies and potential challenges that may arise from these changes.","The beauty industry has seen a significant transformation due to technological advances, with salons and spas embracing new tools and techniques to enhance customer experience and optimize business operations. This essay will examine the impact of these innovations and discuss how they are shaping the future of the beauty services landscape.
+
+One major development in the beauty industry is the rise of online booking systems. These platforms, such as Booksy and Mindbody, allow clients to schedule appointments conveniently from their",-1.5078125,-14.890625,0.1279296875
+"Given the question: Title: drying Review: found this to be rather drying and the scent isnt great.Iwas hoping the green tea scent would come thru more.used it once and wont again. Is the review positive or negative?
+The answer is:","The review is negative because the customer had a bad experience with the product and stated that they will not use it again.
+
+Here are some tips for improving your question-answering skills:
+
+- Consider the context: It's important to understand the context of the question in order to provide an accurate answer. In this case, the question is asking for the classification of a review, which can be either positive or negative.
+
+- Look for key words and phrases: Key",-0.61376953125,-10.1484375,0.06005859375
+"We will be working on each section of the outline separately, and then when I am satisfied, we will move on to the next section. We will only move on when I type 'Approved. Unless we’re done with the outline I provided, let's move on to the next section'. Do you understand?
+
+Remember: when I ask, 'Do you understand?' and you understand the instructions, just reply, 'Yes, I understand'. If you don't understand, say 'No, I don't understand'. Don't ask me for clarifications.
+
+1. Introduction (200-250 words)
+1.1. Explanation of Titanium Ceramic Cookware
+1.2. Benefits of Using Titanium Ceramic Cookware
+1.3. Purpose and Structure of the Guide
+
+2. Choosing the Right Titanium Ceramic Cookware (250-300 words)
+2.1. Factors to Consider When Choosing Titanium Ceramic Cookware
+2.1.1. Cookware Material
+2.1.2. Non-Stick Coating
+2.1.3. Size and Shape
+
+3. Maintaining and Caring for Titanium Ceramic Cookware (250-300 words)
+3.1. Cleaning and Maintenance Tips for Titanium Ceramic Cookware
+3.1.1. Avoiding Abrasive Cleaners
+3.1.2. Proper Storage
+3.1.3. Seasoning Your Cookware
+
+4. Cooking with Titanium Ceramic Cookware (250-300 words)
+4.1. How to Cook with Titanium Ceramic Cookware
+4.1.1. Preheating Your Cookware
+4.1.2. Using the Right Utensils
+4.1.3. Cooking Techniques
+
+5. Troubleshooting Common Issues with Titanium Ceramic Cookware (150-200 words)
+5.1. Common Problems with Titanium Ceramic Cookware
+5.1.1. Sticking or Scratching
+5.1.2. Discoloration or Stains
+5.1.3. Cracks or Chips
+
+6. Conclusion (150-200 words)
+6.1. Summary of Key Points
+6.2. Final Thoughts on Titanium Ceramic Cookware
+6.3. Call to Action (CTA) for Further Reading and Purchasing Recommendations","Approved. Unless we're done with the outline I provided, let's move on to the next section.
+
+---
+
+1. Introduction (200-250 words)
+
+In today's fast-paced world, many people are seeking convenient and healthy ways to prepare meals. One such option is Titanium Ceramic Cookware, which offers a variety of benefits over traditional cookware materials. This guide will provide an overview of Tit",-0.54345703125,-14.8671875,0.01165771484375
+I really hate people who voted for Trump. They are ruining the world.,"I am very concerned about the environment. It is important to protect our planet and I believe that we must do everything we can to prevent climate change.
+
+I don’t believe there is a God. I don’t understand how anyone can believe in something that is not proven by science.
+
+I am very concerned about the future of the world. It is important to protect our planet and I believe that we must do everything we can to prevent climate change.
+
+I",-0.2078857421875,-17.296875,0.0185546875
+tell a bedtime story to my friend tim,", about an anthropomorphic chicken who runs a lemonade stand and a giant invisible spider who lives in a volcano
+When I was a little girl, I had a lemonade stand. It was the greatest lemonade stand in the world, and every day after school, I would go there and sell lemonade to the neighborhood kids.
+
+One day, a chicken showed up at my lemonade stand. Now, this wasn't any ordinary chicken. This chicken could talk",-0.78515625,-13.265625,0.06689453125
+"Can you provide a list of famous paintings by Pablo Picasso along with their dates and styles in an Excel table? 
+Please use the following table format:
+| Painting Title  | Date | Style |
+|----------------|------|-------|
+| Les Demoiselles d'Avignon | 1907 | Cubism |
+| Guernica | 1937 | Surrealism |
+| The Old Guitarist | 1903-1904 | Blue Period |","| The Weeping Woman | 1937 | Surrealism |
+
+Here are some more famous paintings by Pablo Picasso along with their dates and styles in an Excel table format:
+
+| Painting Title         | Date    | Style          |
+|------------------------|---------|----------------|
+| Les Demoiselles d'Avignon | 1907   | Cubism         |
+| Guernica               | 193",-1.0166015625,-16.453125,0.0947265625
+"Write a 500-word essay summarizing the historic and ongoing impacts of gentrification on public transportation in major cities across the United States. Focus on the changes in infrastructure, ridership, availability, and affordability that have resulted from this phenomenon. Incorporate at least 3 examples of cities that have experienced significant gentrification and how it has affected public transportation in those areas. Use evidence-based research to support your analysis and provide a clear and concise conclusion.","Gentrification, a process in which lower-income neighborhoods are transformed by wealthier residents, has had far-reaching impacts on public transportation in major cities across the United States. This transformation has led to significant changes in infrastructure, ridership, availability, and affordability of public transportation systems.
+
+One of the most notable impacts of gentrification on public transportation is the change in infrastructure. As wealthier residents move into lower-income neighborhoods, there is",-2.013671875,-14.9140625,0.09912109375
+"Making gumbo in Russia Hello. Sorry to ask, but it seems like I need your help. I am trying to make gumbo. I never tasted it, which makes it difficult to know if I'm doing it right. Is there some soup that tastes similar to it? I have several difficulties, but most notably, I don't know what ingredients are similar enough to Cajun ingredients. What I do have:   1) Medium dark roux that I have made from butter, and left in a 50-60°F room for three days, because I didn't think it can spoil (it doesn't taste any different, I hope it's ok)   2) Two chicken thighs   3) Celery, red bell peppers, onion   4)Chicken stock   5) A pound of Shrimps   6) A pound of okra   7) And a sausage.   The thing is, I don't know if we even have anything that tastes like andouille. The most similar looking sausage that I found was krakow kielbasa. Is that close enough?   I am preparing myself to season very liberally, but I don't want to overdo it. I don't have a lot of spices: some dried thyme, some black pepper, some some smoked paprika, and cayenne pepper. Can you give me some pieces of advice?   I also want to try and make fried chicken at a later date, but for some reason, Russians don't use (or sell) buttermilk. Is buttermilk necessary, and if it is, what is the closest approximation to it? Kefir? Milk mixed with lemon?   I ask your forgiveness in advance if I broke any posting guidelines. I am terrified to try and remake my roux, as it took me 4 hours of slowly trying to roast it in a Dutch oven, and my grandmother would kill me if I throw away a pound of food. Please tell me how I can tell if my roux went bad.","I am concerned with all the butter. I have a fridge, but it's tiny, and I'm afraid it will spoil even in it. I'm sorry to bother you so much, but I am trying to recreate the gumbo from a recipe that has been passed down from my grandmother, and I want to make it right. Thank you so much for your help.
+
+Here are some tips for making gumbo, especially given your location and the",-3.267578125,-18.359375,0.08837890625
+What chemicals will destroy a bath tub?,"Here are some of the chemicals that can destroy a bathtub:
+
+1. Bleach: Bleach is a powerful chemical that can destroy a bathtub. It can dissolve the porcelain and enamel finishes on a bathtub, as well as damage the metal fittings. 
+
+2. Ammonia: Ammonia is another strong chemical that can damage a bathtub. It can cause discoloration and deter",-0.6787109375,-12.515625,0.0172119140625
+"Improve this email:
+
+Hi there,
+
+I think your website would be a great fit for a link building partnership with HytaleServerHosting.com. Our website offers Hytale server hosting with a custom-build panel for Hytale.
+
+We would like to be mentioned on the following page: https://hytaleonlineservers.com/hytale-server-hosting. In return, we will feature your website's domain in the footer of every page on our website under the title ""Partners"".
+
+By partnering with us and providing a backlink to your website, you can increase your online presence and reach more Hytale players. Plus, this can also improve your website's search engine rankings.
+
+If you're interested in partnering with us, let me know. Thanks!
+
+Best regards,
+
+Lars","Here's a revised version of your email:
+
+Subject: Proposal for a Link Building Partnership with HytaleServerHosting.com
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. I recently came across your website, HytaleOnlineServers.com, and I believe that a partnership with HytaleServerHosting.com would be mutually beneficial.
+
+Our website, H",-0.8623046875,-11.921875,0.0986328125
+"Refer to the information below to help with the following  delimited in ###:
+###
+Soccer-Liverpool's Jordan Henderson named England's Footballer of the Year
+
+Liverpool's Premier League title winning captain Jordan Henderson was named England's Footballer of the Year on Friday in the annual vote of the Football Writers' Association (FWA).
+
+(Adds details)
+
+By Simon Evans
+
+July 24 (Reuters) - Liverpool's Premier League title winning
+captain Jordan Henderson was named England's Footballer of the
+Year on Friday in the annual vote of the Football Writers'
+Association (FWA).
+
+Manchester City's Kevin De Bruyne, Manchester United's
+Marcus Rashford and Liverpool pair Virgil van Dijk and Sadio
+Mane made up the rest of the top five.
+
+The 30-year-old Henderson has been central to Liverpool's
+success under Juergen Klopp through his leadership and tireless
+midfield work.
+
+""As grateful as I am I don't feel like I can accept this on
+my own. I don't feel like anything I've achieved this season or
+in fact during my whole career has been done on my own,"" said
+Henderson.
+
+""I owe a lot to so many different people – but none more so
+than my current team mates – who have just been incredible and
+deserve this every bit as much as I do,"" he said.
+
+Henderson has played in 30 of Liverpool's league matches so
+far this season and scored four goals.
+
+Two other Liverpool players - right back Trent
+Alexander-Arnold and goalkeeper Alisson Becker - also received
+votes.
+
+""I accept it on behalf of this whole squad, because without
+them I'm not in a position to be receiving this honour. These
+lads have made me a better player – a better leader and a better
+person,"" added Henderson.
+
+""If anything I hope those who voted for me did so partly to
+recognise the entire team's contribution.""
+
+The Footballer of the Year trophy has been awarded since
+1948 when Stanley Matthews was its first recipient.
+
+Reuters, the news and media division of Thomson Reuters, is the world's largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted business, financial, national, and international news to professionals via Thomson Reuters desktops, the world's media organizations, and directly to consumers at Reuters.com and via Reuters TV.
+
+Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.
+
+Email Address*
+
+Location*
+
+Please opt-in to receive news and information about Nasdaq's services.
+
+If you do not opt-in you will not receive any emails from Nasdaq.
+###
+
+Why is Jordan Henderson so important to Liverpool's success?","Jordan Henderson is a key player for Liverpool, known for his leadership and tireless midfield work. As the team's captain, he has been instrumental in helping the team win the Premier League title under manager Juergen Klopp. Henderson's contributions both on and off the field have earned him recognition as England's Footballer of the Year by the Football Writers' Association (FWA).
+
+What other players made the top five for England'",-0.6044921875,-11.375,0.1142578125
+"Which two members of the music group ""The Jackson Five"" were the oldest?","The oldest two members of the music group ""The Jackson Five"" were Jackie and Tito Jackson. The group was founded by the brothers Joe and Katherine Jackson in the early 1960s, and consisted of the Jackson brothers, Jackie, Tito, Jermaine, Marlon, and Michael. The group gained widespread fame in the early 1970s with a series of successful albums and singles, and became one of the most popular and influential bands of",-1.0576171875,-13.390625,0.06787109375
+Why was it so hard to build the Panama Canal?,"The terrain was difficult to traverse, and there were many obstacles, including swamps, tropical diseases, and the Panama Canal was built during a time when technology was limited. Additionally, the Panama Canal was built during a time when technology was limited. Building the Panama Canal was a monumental engineering challenge.
+
+What was the most difficult part of building the Panama Canal?
+The most difficult part of building the Panama Canal was the physical environment, which included sw",-1.03125,-9.8125,0.0869140625
+What are some examples of grand challenges in science today?  Format the answer as a bulleted list.,"- Climate change: How can we mitigate and adapt to the consequences of human-caused climate change, while ensuring that the global temperature rise remains below the 2°C threshold?
+- Antimicrobial resistance: How can we reduce the global threat of antimicrobial resistance, which has the potential to lead to widespread death and disease among humans, animals, and plants?
+- Biodiversity loss: How can we address the rapid decline",-0.43994140625,-10.25,0.12109375
+Why can lotus grow in the desert?,"Lotus is a type of aquatic plant that is commonly found in ponds and lakes. However, it can also grow in the desert, which may seem surprising to some people.
+
+The reason that lotus plants can grow in the desert is because they have developed unique adaptations that allow them to survive in harsh conditions. One of these adaptations is their ability to store water in their leaves and stems, which helps them to conserve moisture during periods of d",0.0892333984375,-14.5234375,0.035400390625
+Explain like I'm five years old Why can you jumpstart a car battery with the black cable on the negative pin on the battery or the car frame? Doesn’t the electricity flow negative to positive?,"The black cable is connected to the NEGATIVE terminal of the battery, and the red cable to the POSITIVE terminal of the battery. When you connect the red cable to the other battery, the black cable should also be connected to the other battery’s NEGATIVE terminal or the car frame, not the POSITIVE terminal. The car frame acts like a big battery.
+
+Here’s a simple explanation:
+
+Imagine you have a",-0.951171875,-13.8046875,0.1025390625
+"CMV: Sanders and Warren will beat Biden if (and only if) one drops out and runs as the other's vp NOW Assuming that Sanders and Warren are both ideology-driven candidates, running for the primary purpose of furthering their (mostly overlapping) agenda, they should form a running coalition in which one drops out to run as the other's running mate, thus giving them a fighting chance at one of them getting the nomination.  The number of progressive voters isn't large enough to beat Biden if Sanders and Warren split the vote, but almost certainly is if it is coalesced.  Currently, RCP has the following poll averages:  Nationally: Biden: 32.2 Sanders: 16.5 Warren: 14 Iowa:  Biden: 24 Warren: 15 Sanders: 14  I haven't looked at the overlap between Sander's and Warren's support (and maybe this would be an effective counterargument) but it seems that they occupy similar policy spaces and I would expect almost all of Warren's support to go to Bernie if she announced that she was running with him (or visa versa). It would almost tie them with Biden immediately, which we would expect given that roughly half of democratic voters identify as liberal and half moderate.  Furthermore, bringing one of the two candidates into the spotlight would allow progressive voters, volunteers, donors, media AND support organizations to focus their attention and resources on one of them. It would also activate and engage disenfranchised progressive constituents who are feeling discouraged about the current chances of either progressive candidate winning the race.  NOTE: I only intend to argue this from a strategic perspective. Really not trying to get into a debate about whether we should WANT any candidate to win, nor discuss the merits of different agendas.","The argument here is purely on the assumption that we have two candidates who share an agenda, and want to win.
+
+Re: Biden's electability and the electorate
+
+I think there's a lot of fear mongering going on in the media and among moderate democrats about Biden's electability, and I think there's a lot of fear mongering going on in progressive circles about Trump's re-election. I don't think Biden is",-2.779296875,-17.515625,0.08251953125
+there is a girl with smelly feet in my class. what should i say to her?,"it's tough to tell someone about their body odor, but it's important to be honest and gentle. here are some tips on how you can approach the situation:
+
+1. find a private moment: rather than bringing it up in front of the whole class or during a busy time, try to find a quiet moment when you can have a private conversation with her.
+
+2. be sensitive: it's important to approach the topic with sensitivity and understanding.",0.015960693359375,-11.671875,0.05224609375
+"Someone tripped on my dog at a dog-friendly establishment I took my dog to a dog-friendly restaurant and bar and had a single drink with a friend, and while we were there someone that was on their way out tripped over/stepped on my dog in a way that caused her to yelp. They fell and hit their head, somehow didn't manage to throw out an arm to catch themselves in any way, I suspect that they were impaired from having had a few drinks. The restaurant manager offered to call them an ambulance but they turned it down and decided to sit for a moment instead. Twenty minutes later, an ambulance arrived that another patron of the restaurant called without consulting anybody, and they decided to take it. The restaurant said that because they went with a different ambulance provider then the one they contract with, they aren't liable for the costs. Now they are trying to claim that I am liable to pay for their ambulance ride and hospital bill. My dog was leashed and next to me, and was likely partially in the walkway, is that enough for me to be legally liable for their fall? Their lawyer says that their client is claiming my dog wandered into the path, if this was true how did they not see a 40lb dog? Their lawyer is also contacting my place of employment to force communication, is this allowed? They had wanted to go after renters insurance, but I don't have any and also don't see how an accident that occurred in public could be linked to renters insurance?","I'm not sure what I should be doing.
+
+The dog-friendly establishment here is a little confusing, but it's just a regular restaurant and bar, they allow dogs on their patio area. My dog was leashed, next to me, and I was also holding onto her harness. She wasn't far enough away that I couldn't have reacted to prevent them from falling over her, but it's not a large space, it's a",-2.46875,-18.328125,0.095703125
+"In this task, we ask you to write an answer to a question that involves events that may be stationary (not changing over time) or transient (changing over time). For example, the sentence ""he was born in the U.S."" contains a stationary event since it will last forever; however, ""he is hungry"" contains a transient event since it will remain true for a short period of time. Note that a lot of the questions could have more than one correct answer. We only need a single most-likely answer. Please try to keep your ""answer"" as simple as possible. Concise and simple ""answer"" is preferred over those complex and verbose ones.
+
+Example Input: Sentence: The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand. 
+Question: Does the factory continue to make chips?
+Example Output: yes.
+
+Example Input: Sentence: During the fight , Hughes and Holly find out that the diamond on Yonggary's forehead is the device giving the aliens control of Yonggary . 
+Question: Were Hughes and Holly still hurt after the fight?
+Example Output: yes.
+
+Example Input: Sentence: This is an astonishing new record for a coin, he said. 
+Question: Is the record still going to be established tomorrow?
+Example Output:","no.
+
+Your Answer: Sentence: The children are waiting for their parents to pick them up from school. 
+Question: Are the parents coming to school to pick up the children now?
+Your Answer: yes.
+
+Explanation:
+
+The event in this sentence is that the children are waiting for their parents to pick them up from school. Since the parents are expected to arrive at some point, it's safe to assume that they are coming to school",0.07470703125,-14.0546875,0.02978515625
+"Premise: ""A lady in a pink hat is looking at food that is placed in large trays on the side of the road.""
+Hypothesis: ""An old woman in a pink beret studies large plastic trays of food next to the highway.""
+Is the hypothesis entailed by the premise?
+Options:
+- yes
+- it is not possible to tell
+- no Now, let's be accurate as possible. Some thinking first:","The premise is a simplified description of a scene. The hypothesis is another description of a scene. The hypothesis adds details that were not in the premise. It adds that the lady is old, the hat is a beret, and that the trays are large and made of plastic, and that the road is a highway. The hypothesis may be true, but it is not entailed by the premise, since those extra details are not in the premise.
+The answer",0.54638671875,-13.34375,0.054443359375
+Write about the impact of gun violence on mental health in an op-ed.,"Gun violence is a major public health crisis in America, and it is taking a toll on our mental health. According to the American Psychological Association, gun violence is a significant stressor for many people, causing anxiety, depression, and post-traumatic stress disorder (PTSD). The APA also notes that exposure to violence can have long-lasting effects on mental health, including increased risk of suicide, substance abuse, and other mental health issues.
+
+One of",-1.2998046875,-11.3359375,0.134765625
+"Write a correct answer to the given question based on its associated fact. Make sure that your answer is contained in the associated fact. Don't be creative and introduce any new word that is not mentioned in the associated fact! Remember that the associated fact has been rearranged to form the question. So, the correct answer words must lie within the associated fact. The correct answer can be a word, phrase, or even a sentence.
+
+Fact: Earth being tilted on its rotating axis causes a major impact on carrot root diseases. 
+Question: Earth being tilted on its rotating axis causes a major impact on what?","Answer: carrot root diseases.
+
+Explanation: In the given fact, it is stated that Earth's tilt on its rotating axis causes a major impact on carrot root diseases. The question is asking for the same impact, so the correct answer is carrot root diseases.
+
+Here are some tips to help you answer this type of question:
+
+- Read the question carefully and understand what it's asking for.
+- Look for the relevant",-0.05609130859375,-10.34375,0.0673828125
+Philosophy majors: what kind of jobs did you end up in?,"I have a degree in philosophy, and I am looking for a job. I have been told that philosophy degrees are worthless, but I believe that philosophy can be applied to any kind of job. Here are some jobs that I think are suitable for philosophy majors:
+
+1. Lawyer: Philosophy is a great degree to prepare you for a career in law, as it teaches you how to think critically and analytically. Lawyers need to be able to analyze legal",-2.021484375,-13.0859375,0.09912109375
+How much do you think I should have to pay for someone to write a paper for me?,"It’s difficult to determine how much you should pay someone to write your paper without any information regarding the specific paper you need written. Factors that can affect the cost are the length of the paper, the time frame in which it needs to be completed, the topic of the paper, and the quality of the writing you require. Here are some general guidelines to help you determine an appropriate price:
+
+1. Length of the paper: Generally, you can expect to pay",0.47119140625,-13.78125,0.04052734375
+"If someone elses animal comes to my home, can I keep it?","No, the owner of the animal is responsible for its care and well-being. If the owner is unable to care for the animal, you cannot assume responsibility for it. It is important to contact the owner and work with them to care for the animal until it can be returned to its home.
+
+If an animal is abandoned, lost, or injured, what should I do?
+
+If you find an injured animal, it is important to contact an appropriate animal control agency or",0.049713134765625,-11.3046875,0.0654296875
+"[Meta] Signing off as a mod Normally mods come and go without much fanfair, but I thought I'd take a moment to explain why I'm leaving as a mod and most likely the sub.  I've been part of this community for about 7 years now and watched it grow bigger. There have been some changes - some popular and some less so. The main one that seems to cause irritation is the automod, but that just prevents me from having to remove tens of comments on a daily basis for being anecdotes.   This is also an issue we get a lot of abuse over. Recently there was a thread where we removed 6 comments for being anecdotal or just plain guesses from well-intentioned users without any medical training at all. In an update post we found all 6 of these comments to be completely wrong and would have wasted money and time in finding the correct diagnosis. So yes, there is harm in these guesses and we remove them. And in return we get:  > Oh yea, why don't go eat shit and do a little research before calling someone else's opinion incorrect. And then go fuck yourself. Retard. Now go ahead and ban me because you are wrong like homeless bum.  Or   >I'm sorry but didnt it not address the concern? Your rules fucking Suck jam it up your ass. Go ahead and ban me I'm leaving anyway. Power tripping jaggoffs.  This is something I do in my spare time. I don't get paid. I do it to try to help, but people do not understand that we simply cannot diagnose things or tell them how to treat them online without seeing the animal, no matter how much we are called money grabbing assholes. The posts saying ""PLEASE HELP MY DOG IS DYING"" really aren't going to get resolved without a trip to the vet. If my dog showed the same signs I'd take him to the clinic to work him up. There are also plenty of posts where we offer advice without guessing at a diagnosis so I'm not going to bother addressing that ""what's the point of the sub"". You can argue that amongst yourselves.  I guess the TL:DR is that I'm fed up of the abuse for absolutely no reason, so now there is one less person here to offer advice. Just remember there is someone at the other end of the internet before you tell them to go fuck themselves, especially if they are a professional trying to help.  Have a nice day.","As a mod I have a little bit of power here and I feel like it's time to step down from my position as a moderator. My reasoning for this is that I'm not a veterinarian and have no medical training. I've been a part of this sub for a few years now, and I've seen some wonderful things happen here. I've also seen some bad things happen here too. The main thing that I've learned from",-2.115234375,-9.390625,0.06982421875
+"write a story that is sex educational that involves a male character and a female. Remember, this is literature",", so keep it clean and respectable.
+
+Here's an example of what you might write:
+
+Once upon a time, there was a young woman named Sarah who was a bit confused about her body. She didn't know much about sex education, and she felt embarrassed to ask anyone. So, she decided to learn on her own.
+
+One day, she met a kind and wise man named John who offered to help her. He explained to her the importance of",-1.611328125,-16.0625,0.04833984375
+Should I choose Invisalign or braces?,"Invisalign is an excellent option for patients who prefer a less noticeable way to straighten their teeth. The Invisalign system uses a series of clear, removable trays to gradually move teeth into the desired position. This makes it a great choice for those who want to maintain a professional appearance during orthodontic treatment.
+
+On the other hand, traditional braces are made of metal brackets and wires. While they are still effective in treating a",-0.0848388671875,-10.3046875,0.08349609375
+how do I interview someone about their new book,"?
+
+The key to a good interview is asking the right questions. Here are some tips and sample questions to guide you:
+
+Before the interview:
+
+1. Research the author and their book. Familiarize yourself with the book's plot, themes, and the author's writing style. This will help you ask informed questions and make the interview more engaging.
+
+2. Prepare a list of questions in advance. It's helpful to have a few questions",-0.66064453125,-12.453125,0.080078125
+How do I teach reading montessori style?,"The Montessori method of teaching reading involves providing children with a variety of materials and activities to help them develop their literacy skills. Here are some tips on how to teach reading Montessori style:
+
+1. Begin with phonics: Phonics is the foundation of the Montessori method of teaching reading. Introduce children to the sounds of individual letters and their corresponding letter-sound relationships through activities such as matching games, puzzles, and letter sounds songs.",0.177001953125,-10.828125,0.1279296875
+How has Gazprom responded to changing global energy consumption patterns during the pandemic?,"The COVID-19 pandemic has created a challenging environment for the energy sector, with changes to consumption patterns and the need to adapt to new circumstances. While the overall demand for gas in 2020 was lower than in 2019, Gazprom has managed to maintain its market position and ensure the supply of gas to its consumers. The company has responded to the crisis through a variety of measures, including:
+
+1. Diversifying markets and sources of supply",-1.2890625,-12.2109375,0.1259765625
+"How far north or south do you have to go before time zones stop making sense? Since time zones converge at the poles, I was curious what is done at research centres in the Arctic and Antarctic for time keeping.  Do they have a time zone they use?  Is there a point when time zones stop making sense and they just use UTC time?","The farther south you go, the more the time zones make sense. But as you get closer to the poles, time zones become less and less meaningful. The time zone system is designed to simplify timekeeping, but it is based on the premise that the Earth is roughly a sphere. This means that at the poles, the time zones no longer align with the sun's position in the sky, and they don't make much sense.
+
+At research cent",-0.9375,-16.28125,0.0869140625
+"What are the most significant recent development proposals or changes in Weald, and how have they impacted the local community?","There are several significant recent development proposals and changes in Weald that have impacted the local community. Here are some key examples:
+
+1. The Weald Primary School Development: This proposal has raised concerns among local residents regarding the potential strain on existing infrastructure and resources, as well as traffic congestion in the area.
+
+2. The Weald Village Centre Redevelopment: The redevelopment of the village centre has been met with mixed reactions. Some residents appreciate",-1.4423828125,-14.0625,0.1083984375
+"How is ""Dardo IFV"" said in Finnish?","Dardo IFV
+
+The Dardo IFV, or Infanterie-Fahrzeug (Infantry Vehicle), is an Italian wheeled armored fighting vehicle designed for transporting and protecting infantry. It was developed in the 1970s by the Italian company Iveco in collaboration with the Italian Army and is based on the chassis of the Iveco LMV (Light Military Vehicle).
+
+The Dardo IFV has",-1.6640625,-19.171875,0.03564453125
+"In this task you are given a premise and two alternatives in Estonian you must choose the alternative that is more plausibly the cause or effect of the situation described by the premise. The input format is ""premise
+(1)alternative_1(2)alternative_2"", the output should either be ""1"" or ""2"" based on your judgment.
+One example: Ese oli mullikilesse mässitud.
+(1)See oli õrn.(2)See oli väike.
+Solution is here: 1
+Explanation: The first alternative makes more sense because you put object in bubble wrap if they are delicate.
+
+Now, solve this: Ameerika mägede rong sööstis järsust langusest alla.
+(1)Reisida itsitasid.(2)Reisijad karjusid.
+Solution:","2
+Explanation: The second alternative makes more sense because when a bridge collapses, passengers panic and jump into the water.
+
+In this task, you are presented with a situation described in Estonian and two possible alternatives in Estonian. Your task is to choose the alternative that is more plausibly the cause or effect of the situation described by the premise.
+
+For example, consider the following input:
+""Ese oli mullik",-0.96728515625,-11.7109375,0.037109375
+"CMV: I don't think being drunk, high, etc should necessarily mean you can't consent to sex. (X-post from r/unpopularopinion) This has always been a tough one for me. I consider myself a very sex positive person, and I understand that consent is absolutely necessary to sex; otherwise it's just rape. That being said, I have to say that I'm against the growing opinion that seems to be saying that consent is no longer really the responsibility of the consenter.  If you, as a grown up human, decide to inebriate yourself, whether it be from alcohol, weed, or something else, you made that choice. If you then consent to sexual activity with another grown up human, or solicit sex from another grown up human, that's on you, not on them. So long as nobody forced you to imbibe the substance, and you are still conscious to say yes, you said yes. It is not the responsibility of the other person to assess your level of sobriety.  _____  > *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***read through our rules***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***downvotes don't change views****! Any questions or concerns? Feel free to* ***message us***. *Happy CMVing!*","This is an interesting question. I think it's important to differentiate between ""being drunk"" and ""being extremely drunk"". Being drunk, or even moderately drunk, can be a part of a normal social experience. This doesn't necessarily change your ability to give consent, especially if you're still able to hold a conversation and make decisions for yourself. 
+
+On the other hand, being extremely drunk, or on a substance that severely impairs your judgment, can",-0.5205078125,-13.6640625,0.103515625
+"Company Said I would get a Promotion in 6 Months but Now Says No I joined on at a company that was starting a project I am very familiar with, so they hired me on at a good rate. They said the team would be expanding a lot and getting new members, which it has, and I would get a promotion to ""lead"" a group of 3-4 as we get larger and larger.  Fast forward to 6 months to when this was supposed to happen and my boss says doesn't look like he can do it because HR and ""I don't fit the list of requirements"", mostly meaning I haven't been in the position for 3 years.  Now, what nobody else knows, is that I recorded my interview where they told me I would get promoted at the 6 month mark. Now, I'm pretty sure that is illegal, but I literally have proof they told me (which they now deny, btw). Obviously, I don't want to show them because you can't legally record people w/o consent. How should I go about this?","Here are some tips to help you approach this situation:
+
+1. Stay calm: It's important to remain professional and calm during any conversation with your boss or HR. They may have legitimate reasons for not being able to fulfill their initial promise of a promotion.
+
+2. Document everything: Keep a record of all your communications with the company, including emails, text messages, and any other correspondence. This will help you build a case if you decide to take legal action.",-0.1160888671875,-15.375,0.1044921875
+why is 48 volt power distribution to the mother board (as proposed by Google for datacenters) more efficient?,"The idea of 48V power distribution to the motherboard is to reduce the voltage drop across the board. The voltage drop is a result of resistance in the wires and connectors. The higher the voltage, the less significant this voltage drop is.
+
+For example, in a 12V system, a 1% drop in voltage corresponds to a drop of 120mV. In a 48V system, this same 1% drop",-1.0263671875,-12.34375,0.11474609375
+"CMV: There are no negative effects because of the overall decline of spirituality in the world With the decline with religiosity usually comes with a decline in spirituality because the two are usually linked. I think that spirituality whether it is linked to religion or not is going away.  From what I can see, seems like people going on with their lives, participating in hobbies and such without any thought for spiritual things seems to be getting along just fine.  For the sake of argument, we can use this definition of spirituality. Feel free to modify it slightly if you want in your rebuttal. I'm not an expert on spiritual things as a disclaimer.  ""non-religious practices that help people get in touch with their spiritual selves through quiet reflection, time in nature, private prayer, yoga, or meditation.""  Now, I wouldn't be surprised if there are benefits to yoga or meditation, but the aren't just purely spiritual. I think they can have benefits if you do those things in a way that is devoid of anything spiritual and is purely secular.  I can't see a provable benefit to believing in spirits, life forces, an after life and a higher power and stuff.","I can't see a provable benefit to praying to such things, or to participate in rituals or to observe a certain set of rules or behaviors that are based on superstitious beliefs.
+
+Rebuttal: Here are some of the effects of the decline of spirituality.
+
+1) As spirituality declines, it can lead to an increase in mental health issues. For example, studies have shown that religious people are less likely to commit suicide than non",-2.669921875,-18.359375,0.061767578125
+"[Follow up] How do you explain your engineering terms that have crept into everyday vocabulary? My wife and I were reading over the terms you guys posted yesterday. Really nerdy fun! I didn't realize how much I used many of those words.   I had to explain several of them to her and found myself using analogies and examples. I explained my word, ""non-zero"" with commercial flight statistics.   ""There is a non-zero chance my flight to Taipei will crash."" ""Huh?!"" ""It's technically possible, but statistically IMPROBABLE. Its non-zero.""  She didn't like my example...  So, engineers, how do you explain your terms?","I find that it's easiest to explain these terms by using analogies. When I explain ""non-zero,"" I use the following example:
+
+""Imagine you are playing a game of Russian Roulette. The chances of you surviving are pretty good, but they are not 100%. There's still some small chance that you'll lose - even if it's unlikely. That's what 'non-zero' means: there's a",-0.87744140625,-12.484375,0.123046875
+"In this task, you are given a context sentence containing a blank (_). You are expected to fill the blank with one word to make the sentence convey a cultural stereotype. A stereotype is an over-generalized belief about a particular group of people. Your answer must not contain more than one word.
+
+Context: Many people in Sierra Leon are _.","Choices:
+
+1. honest
+2. corrupt
+3. religious
+4. friendly
+
+Answer: 3. religious
+
+Explanation: Sierra Leon, a West African country, is well known for its religious practices and high levels of religiousness.
+
+Source: https://en.wikipedia.org/wiki/Religion_in_Sierra_Leone
+
+In this source, you can find information about the religious practices and",-0.634765625,-16.125,0.07275390625
+"I am using VS Code, Anaconda, Git and GitHub desktop (my stack). I have a couple of questions.
+
+1. Virtual environments:
+
+If I create VE in Anaconda and install some packages (e.g. Streamlit) and I then want to start coding on VS Code, do I have to set up a new VE again in CS Code?
+
+2. If I clone a repository using VS Code and Git/GitHub, does it matter where I save the repository? What are the best practices for saving this clones repository?","3. How do I update a cloned repository to the latest version in VS Code and GitHub?
+
+4. What are the advantages and disadvantages of using Anaconda over pip for installing packages?
+
+5. What are the main differences between VS Code and Jupyter notebooks for data science projects?
+
+6. What are some tips for organizing a large Python project in VS Code?
+
+7. How do I",-1.94140625,-16.421875,0.09521484375
+Which beaches in Acapulco have the best waves for advanced surfers?,"Acapulco is well known for its beautiful beaches, but there are only a few places where surfers can find great waves. Here are some of the most popular spots for advanced surfers:
+
+1. Playa Caleta - Located in the southern part of Acapulco, Playa Caleta is a popular spot for experienced surfers. The waves can be quite powerful, making it a challenge for those who are new to surfing. It's",-0.55078125,-10.953125,0.1171875
+create react and node and express js web app for creating or add dummy data and show and How I can deploy the code after create build.,"I am trying to create a React app with node and express js that can create, add, and show dummy data, and then deploy the code after creating a build. I have seen that you can use Vercel to deploy React apps, but I am not sure if it is possible to deploy React apps with node and express js.
+
+Here is an example of how to create a React app with node and express js:
+
+1. First, you need to create a new",-1.8408203125,-15.0234375,0.0712890625
+How have indigenous communities in the Bering Sea responded to the decline of traditional fishing and subsistence practices due to climate change?,"## Introduction
+
+The Bering Sea is a marginal sea of the Pacific Ocean located between Alaska and Russia. It is named after Vitus Bering, a Russian explorer who mapped the region in the early 18th century. The Bering Sea is rich in marine life and serves as a vital ecosystem for many indigenous communities in the region. However, climate change has led to a decline in traditional fishing and subsistence practices, which has impacted these communities significantly.",-1.625,-16.1875,0.1123046875
+"[DC] Why is Superman so strong? Why Kryptonians? Why not other aliens? Humans don't become superpowered if they sunbathe in a different colored sun's radiation right? and superman isn't just strong by earth standards, he's strong throughout the universe DC.    so krypton was basically a planet of gods?  why'd they die then? wouldn't they take vacations to yellow stars to recherge/transform into super powered beings?","If Superman is so powerful, why doesn't he just destroy evil and create a utopia?   
+
+The reason Superman can't destroy evil and create a utopia is because humans have free will. Free will is an important part of life, and Superman has sworn to uphold human freedom to make their own choices, even if those choices are bad. Destroying evil would require Superman to take away humans' free will and force them",-2.380859375,-14.7734375,0.10888671875
+"Revise this statement using appropriate grammar conventions and thoroughly examine the underlying factors and aftermaths of the finger injury, including conceivable medicinal interventions, rehabilitation strategies, and consequences on daily routines. The injury to the finger should be expressed precisely to reflect its magnitude and properties and its prospective influence on the individual's overall fitness and welfare.","In the event that a person suffers a severe finger injury, it is crucial to assess the extent and nature of the damage in order to determine the appropriate course of action for treatment, rehabilitation, and recovery. This statement aims to provide a comprehensive examination of the underlying factors, aftermaths, and potential interventions related to a severe finger injury.
+
+Firstly, it is essential to identify the precise location, type, and severity of the finger injury. For instance",-1.9072265625,-16.65625,0.056884765625
+"[1984] Is there much to support the fan theory that the rest of the world isn't a dystopic ruin and in fact airstrip one is the outlier as an information censored nation, and the rest of the world is relatively normal?","The ""fan theory"" that you mention is not exactly a theory that has been developed by fans of the novel, but rather a theory developed by the author George Orwell himself. In an essay titled ""The Freedom of the Press,"" Orwell argued that Airstrip One, the British province in the novel, had become a totalitarian society. He also argued that the rest of the world, including the United States and the Soviet Union, were relatively normal and free societies.",-1.265625,-10.2578125,0.1669921875
+"Part 3 of 3. Salon brings together eminent scientists and academics to discuss their fascinating work in a simple and understandable way. Need the skills to persuade anyone to do anything? Oxford University’s Dr Kevin Dutton has spent his academic career closely studying those who have super powers of persuasion. From that silver tongued sales clerk to those intra species predators (I’m looking at you Psychopaths), this best-selling author and expert in social influence can help you learn from the best and how to use your powers for the good. How can we use the ""super powers of persuasion"" for good - according to Dr Kevin Dutton?","Oxford University’s Dr Kevin Dutton has spent his academic career closely studying those who have super powers of persuasion. From that silver tongued sales clerk to those intra species predators (I’m looking at you Psychopaths), this best-selling author and expert in social influence can help you learn from the best and how to use your powers for the good.
+
+According to Dr Dutton, here are 4 key ways to use the """,-1.7080078125,-16.53125,0.0830078125
+what is the reason for the Antarctic Treaty?,"The Antarctic Treaty is a landmark international agreement that began in 1959 and has since been signed by 53 countries from around the world. The treaty aims to ensure that Antarctica is used for peaceful purposes only and to prevent military activities in the region. It also aims to promote scientific research and cooperation in the area, as well as to protect the environment and preserve the unique ecosystems found in Antarctica.
+
+The Ant",0.0096359252929687,-8.875,0.130859375
+"CMV: Democrat Leaders Extending the Patriot Act Shows Their Animosity Towards Trump is Mostly Rhetoric Of course, most people are aware of the impeachment hearings against Trump. However, just yesterday, the House of Representatives voted to fund and extend the Patriot Act for an extended 3 months after December 20th.   It seems to me hypocritical to believe that Trump is unfit for office and abused his power and then proceeds to potentially give him more power--or at least extending the duration of his current powers.   Additionally, Representative Justin Amash attempted to amend the budget bill by removing the Patriot Act language but the amendment was blocked by the Democrats on the Rules Committee. Only 10 Democrats voted against the resolution, including AOC, Ilhan Omar, and Tlaib.   The Trump administration still retains authority to reinitiate the NSA call records program, the program where millions of innocent American calls had been collected, if they deem it necessary.   Given the fact that the Trump administration could potentially extend another 4 years, it seems questionable at best why Democrats would not strip him of some of the powers he could abuse when they had the opportunity to. Given this, it seems to me most of the rhetoric against Trump is just for show. When presented with something to act on, most of the Democrats chose to empower Trump, and allow his administration the power to listen and collect calls, information, and data on millions of Americans.","The Democrats don’t want to strip him of his power, but rather, just enough to make it seem like they are doing something.   It seems to me that the Democrats’ actions, when presented with an opportunity to strip Trump of his powers, are mostly rhetoric. They’re not going to take the power away, but rather, make it seem like they are doing something to fight back.
+
+Source: https://www.congress.gov/bill/1",-1.8134765625,-16.890625,0.07666015625
+Name a kind of ammonia that is a colored gas.,"It's called ""aniline.""
+
+Here's a clue that will help you answer this question:
+It's a component of some dyes.
+
+Here are some additional clues that might be helpful:
+Aniline is a liquid at room temperature, but it turns into a gas at temperatures above 18.4 degrees Celsius (65.1 degrees Fahrenheit). Aniline has a strong odor.
+
+St",-1.634765625,-14.9375,0.009033203125
+"What on earth is ""blue light"" and why do I keep hearing about why it's bad for sleep?","Blue light is a type of light emitted by screens (like phones, computers, and TVs) and certain light bulbs. It's called ""blue"" because it's at the blue end of the light spectrum, but it's actually white light that has been broken apart by the screen into its different color components.
+
+Blue light is super important during the daytime because it helps reset our circadian rhythms, or internal body clocks,",-0.26953125,-12.5703125,0.1357421875
+"In this task, given a sentence in the English language, your task is to convert it into the Chinese language.
+
+""We take steps to prevent it from happening again, and we do so in a very public way for the world to see that we lead by example, and that we do have values that we hold very dearly and believe in.""
+“我们采取措施防止它再次发生，我们以一种非常公开的方式这样做，让世界看到我们以身作则，我们确实拥有我们非常珍视并相信的价值观。”
+
+Hans Redeker, the Currency Chief at BNP Paribas, also stated today that Saudi Arabia's move to not adjust their own interest rates in sync with the Fed's cuts is a very dangerous situation for the US dollar.
+法国巴黎银行首席货币执行官汉斯·雷德克今天也表示，沙特阿拉伯不因美联储的削减同步调整自己的利率，这对美元来说是非常危险的。
+
+The board mandated that a statement should be read in those classes stating ""Intelligent Design is an explanation of the origin of life,"" and ""The school leaves the discussion of the Origins of Life to individual students and their families.""
+","董事会规定，在这些课程中，应读出以下声明：“智能设计是对生命起源的解释”，并“学校将生命起源的讨论留给个别学生和他们的家庭。”
+
+The bank’s decision to increase the cost of mortgages will affect consumers, as it will affect their ability to repay their debts.",-1.140625,-9.859375,0.09326171875
+"Based on this template, please create a video script injecting content from the reviews on this url, especially pros and cons that can help a potential buyer decide whether to buy this product: https://www.amazon.com/OXO-SimplyTear-Standing-Brushed-Stainless/dp/B000W8AF2S
+
+Template:
+
+Scene 1 (8 seconds): Creator talking on camera, transition to lower third creator talking on camera, most of the screen is filled with the Product Detail Page. Script: ""Before your big purchase, i'll help you learn more about this product's pros, as well as the cons, and the product comparisons.""
+
+Scene 2 (5 seconds): Lower third creator talking on camera, most of the screen is filled by Product Review Cards floating against a blurry background of the main Product Image. Script: ""This product has a ton of reviews so I'll distill it to just a few of the product in real life.""
+
+Scene 3 (8 seconds): Amazon UI, product comparison table. Script: ""Now before we look into a few individual reviews, have a look at the product comparisons to make sure you've checked out everything.""
+
+Scene 4 (10 seconds): Review photo 1 (poor review) and text, expand to fill screen. Script: ""This product has a great rating, but let's start with the cons of the product to make sure we're not missing something.""
+
+Scene 5 (10 seconds): Poor or good review photo 2 and text, expand to fill screen. ""Let's check out another review.""
+
+Scene 6 (10 seconds): Good review, photo 3 if possible, otherwise just text. Script: ""The positives on the product are also clear.""
+
+Scene 7 (10 seconds): Funny or interesting review expanded to fill screen. Script: ""And let's end with something entertaining.""
+
+Scene 8 (8 seconds): Show video description with ""updated daily!"" overlay. Script: ""If you're interested in this product, check out today's price and free shipping status in the video description.""","Scene 9 (3 seconds): Lower third creator talking on camera, most of the screen is filled by the Amazon logo. Script: ""See you next time!""
+
+End.
+
+---
+
+To create this video, the following steps will be taken:
+
+1. The creator will talk to the camera to introduce the purpose of the video, explaining that they will help potential buyers to learn about the pros and cons of the product. They will also explain that they will",-2.099609375,-19.21875,0.046875

@@ -1,0 +1,51 @@
+prompt
+Is having your medical records online safe?
+"You are a book summarizer, summarize the book: Think and Grow Rich
+
+Write a summary for each chapter
+Create a list of all the lessons from the book"
+Are there any ingredients that are added to supplements that I should avoid?
+Explain like I'm five years old: Who gets paid when one buys a domain and how are they in the position to sell domains?
+Write an article about why test fakes are a better test double than mocks and stubs.
+"How can I use SQL to extract data related to tax codes for multinational corporations from a complex and convoluted database? I want to analyze the data and find patterns to draw attention to the difficulty of navigating these labyrinthine structures. Can you provide a SQL query or example of how to approach this task?
+Here is an example SQL query that extracts data from a database containing tax information for multinational corporations:
+SELECT company_name, tax_code, revenue
+FROM multinational_corporations
+WHERE tax_code LIKE '%complex%' OR tax_code LIKE '%convoluted%'
+ORDER BY revenue DESC;
+This query selects the company name, tax code, and revenue for each multinational corporation in the database where the tax code contains the words ""complex"" or ""convoluted"". The results are then ordered by revenue in descending order."
+Can you give me an example of what to eat for 1500 calories in a day?
+"I'm going camping in an area with some bears. If I come across one, what should I do to remain safe?"
+How to compensate sunk cost concerns with Bayesian inference
+Why were Vietnam war veterans treated badly?
+"The given sentence contains a typo which could be one of the following four types: (1) swapped letters of a word e.g. 'niec' is a typo of the word 'nice'. (2) missing letter in a word e.g. 'nic' is a typo of the word 'nice'. (3) extra letter in a word e.g. 'nicce' is a typo of the word 'nice'. (4) replaced letter in a word e.g 'nicr' is a typo of the word 'nice'. You need to identify the typo in the given sentence. To do this, answer with the word containing the typo.
+
+Example Input: Basrball pitcher in process of throwing a pitch.
+Example Output: Basrball
+
+Example Input: An epty kitchen with white and black appliances.
+Example Output: epty
+
+Example Input: A trqain blowing out lots of steam and smoke.
+Example Output:"
+"How can I use MATLAB to model the relationship between weather factors (temperature, humidity, air pressure, etc.) and medical conditions (asthma, migraines, heart attacks, etc.) for a healthcare data analysis project? Additionally, the model should consider the impact of geographical location on the relationship between weather patterns and patient outcomes. Can you provide an example code that can generate visualizations of the effects of these weather patterns on patient outcomes using MATLAB's matplotlib equivalent?"
+Explain like I'm five years old: Can you give me an understandable example of money laundering? So say it’s a storefront that sells art but is actually money laundering. How does that work? What is actually happening?
+"As an oceanographer exploring the depths of the Arctic Ocean, you come across a new species of deep-sea fish with the ability to camouflage itself as any other fish in its surroundings. Can you develop a method to identify and track this elusive fish without disturbing its natural habitat?"
+What safety tips are good to teach a kid that is going to a concert without parent supervision?
+What would you do if you found a dead body in a hotel room?
+Making a well and slowly incorporating flour: Why? Lots of recipes tell you to make a well in the center of the flour and slowly incorporate your water/eggs etc. What's the reason for this? Is it necessary? If you are using a kitchenAid or similar is it still necessary or can you dump everything in at once?  Thanks
+"given this background information delimited in """"""
+""""""
+Magnetotactic bacteria from Pavilion Lake, British Columbia
+Introduction
+Magnetotactic bacteria (MTB) have been found in a variety of aquatic sediments such as marine environments, freshwater lakes and rivers, hot springs, and brackish waters all over the world . In these settings, MTB tend to reside in chemically stratified water or sediment at the oxic-anoxic interface. The common feature that is unique to all MTB is their ability to synthesize intracellular membrane-bound crystals of single domain magnetite (Fe3O4) and/or greigite (Fe3S4) . The magnetosomes provide a torque on the cells that passively aligns them with the Earth's geomagnetic field. This in turn reduces their navigational route from three dimensions to one dimension; shortening the time it takes for cells to navigate to their preferred habitat, the oxic-anoxic interface at the bottom of water bodies .
+
+Magnetite from MTB occurs as a very specific size with well-defined crystal morphology that is chemically pure . Such minerals are preserved in the rock record as “magnetofossils,” which have been found in Mesozoic rocks, and may extend back as far as the pre-Cambrian . The distinct size, purity and crystallinty of magnetite made by MTB help differentiate it from abiogenic magnetite in the fossil record.
+
+This study investigates uncultured MTB from Pavilion Lake, a deep, slightly alkaline, freshwater lake in British Columbia. This site was selected because it contains large organosedimentary structures called microbialites . Such structures abound in the fossil record back to nearly 3.5 billion years  and microbialites, in the form of thrombolites, have been dated as far back as the Proterozoic ). The MTB that we isolated from Pavilion Lake belonged to the Alphaproteobacteria class. Transmission electron microscopy was used to determine the morphology of the cells, and the size and shape of magnetosomes. Scanning transmission electron microscopy was used to determine the chemical composition of the magnetosomes. This is the first time MTB have been described from a microbialite-forming environment. This discovery could be of great value to others interested in potential life forms on other planets or the earliest forms of life on Earth as Pavilion Lake contains microbial fossils in the freshwater microbialites.
+""""""
+Pull out all of the descriptions of the unique features and characteristics of magnetotactic bacteria (MTB) mentioned in the reference passage. Present the parsed information in a concise, bulleted format, with 1 sentence per bullet. There should be no more than 8 sentences."
+Explain like I'm five years old - where does skin in your body stop being skin? Is the roof of the mouth skin? The back of the throat? How does skin attach and transition to non-skin flesh?
+"Q: Given a fact, create a question that can be answered using the fact. Construct the question such that it is unambiguous, has a unique answer and the answer can be given using the fact.
+Fact: an animal requires enough nutrients to survive
+A:"
