@@ -3,7 +3,7 @@
 This is the code base for Recreating CHARM: Calibrating Reward Models with Chatbot Arena Scores. The code is based on the paper by Xiao Zhu, Chenmien Tan, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu at https://arxiv.org/html/2504.10045v1#:~:text=A%20reward%20model%20assigns%20scores,the%20most%20human%2Daligned%20outputs.
 
 Scripts:  
-    - The implementation of the paper's CHARM algorithm can be found in Generate_Calibrated_Dataset_CHARM.py  
+    - The implementation of the paper's CHARM algorithm can be found in Generate_Calibrated_Dataset_CHARM.py  <br>
         - This implementation relies on ELOs from Chatbot Arena: https://lmarena.ai  
     - Compare_Responses.ipynb creates comparative figures of LLM performances as scored by several different LLMs.  
     - RLHF_Training.ipynb uses the RLHF training paradigm to train a model using the generated calibrated pairwise preference dataset: https://rlhflow.github.io  
