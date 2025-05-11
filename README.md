@@ -1,6 +1,6 @@
 # Re-Implementing-CHARM
 
-This is the code base for Recreating CHARM: Calibrating Reward Models with Chatbot Arena Scores. The code is based on the paper by Xiao Zhu, Chenmien Tan, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu at https://arxiv.org/html/2504.10045v1#:~:text=A%20reward%20model%20assigns%20scores,the%20most%20human%2Daligned%20outputs.
+<!-- This is the code base for Recreating CHARM: Calibrating Reward Models with Chatbot Arena Scores. The code is based on the paper by Xiao Zhu, Chenmien Tan, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu at https://arxiv.org/html/2504.10045v1#:~:text=A%20reward%20model%20assigns%20scores,the%20most%20human%2Daligned%20outputs.
 
 Scripts:\\
     - The implementation of the paper's CHARM algorithm can be found in Generate_Calibrated_Dataset_CHARM.py\\
@@ -30,4 +30,4 @@ reinforcement learning.\\
 [17] Penedo, G., Malartic, Q., Hesslow, D., Cojocaru, R., Cappelli, A., Alobeidli, H., Pannier, B., Almazrouei, E., and Launay, J. (2023). The refinedweb dataset for falcon llm: Outperforming curated corpora with web data, and web data only.\\
 [18] Research, I. (2024). Granite-3.1-8b-instruct. https://huggingface.co/ibm-granite/granite-3. 1-8b-instruct. Accessed: 2025-05-11.\\
 [19] Zhu, B., Frick, E., Wu, T., Zhu, H., and Jiao, J. (2023). Starling-7b: Improving llm helpfulness harmlessness with rlaif.\\
-[20] Zhu, X., Tan, C., Chen, P., Sennrich, R., Zhang, Y., and Hu, H. (2025). Charm: Calibrating reward models with chatbot arena scores. https://arxiv.org/abs/2504.10045.\\
+[20] Zhu, X., Tan, C., Chen, P., Sennrich, R., Zhang, Y., and Hu, H. (2025). Charm: Calibrating reward models with chatbot arena scores. https://arxiv.org/abs/2504.10045.\\ -->
