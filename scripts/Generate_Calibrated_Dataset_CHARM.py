@@ -82,22 +82,23 @@ def make_prompt_dataset(num_samples)
 def empirical_prob(s_iO, s_iR):
   return torch.mean(torch.sigmoid(s_iO - s_iR))
 
-# Calculate Offset - not sure this is right
+# Calculate Offset Gradient to minimize delta
 def update_Grad(T, expected_prob, s_iO, s_iR, learning_rate):
-  delta = torch.tensor(0.0, requires_grad=True)
-  k = 10.0  # temperature for sigmoid smoothness - necessary?
-  for t in range(T):
-    empirical_w_grad = torch.sigmoid(k * (s_iO + grad - s_iR))
-    loss = F.mean_squared_error(empirical_w_grad, expected_prob)
-    loss.backward()
-    with torch.no_grad():
-      delta -= learning_rate * delta.grad
-      delta.grad.zero_()
-  return delta
+    grad = 0.0
+    s_iO = torch.tensor(s_iO.values, dtype=torch.float32)
+    s_iR = torch.tensor(s_iR.values, dtype=torch.float32)
+    expected_prob = torch.full((len(s_iO),), expected_prob)
+
+    delta = s_iO + grad - s_iR
+    p_hat = torch.sigmoid(delta) 
+
+    grad_tensor = 2 * (p_hat - expected_prob) * p_hat * (1 - p_hat)
+
+    return grad_tensor
 
 # Apply Offset
 def apply_offset(s_iO, offset):
-  return s_iO + offset
+  return torch.tensor(s_iO.values, dtype=torch.float32) + offset
 
 def construct_calibrated_dataset(df, ELO_O, ELO_R):
     '''
@@ -137,15 +138,17 @@ def construct_calibrated_dataset(df, ELO_O, ELO_R):
 
 def score_response(model, tokenizer, prompt, response):
     device = model.device
-    text = [{"role": "user", "content": prompt}, {"role": "assistant", "content": response}]
+    text = [{"role": "user", "content": str(prompt)}, {"role": "assistant", "content": str(response)}]
 
-    conv_tokenized = tokenizer.apply_chat_template(text, tokenize=True, return_tensors="pt").to(device)
+    conv_tokenized = tokenizer.apply_chat_template(text, tokenize=False, return_tensors="pt").to(device)
 
-    # For Internlm
-    score = model.get_score(tokenizer, text)
-    # with torch.no_grad():
-        # score = model(conv_tokenized).logits[0][0].item()
+    kwargs = {"padding": 'longest', "truncation": True, "return_tensors": "pt"}
+    tokens = tokenizer.encode_plus(conv_tokenized, **kwargs)
 
+    with torch.no_grad():
+        reward_tensor = model(tokens["input_ids"][0].view(1,-1).to(device), attention_mask=tokens["attention_mask"][0].view(1,-1).to(device))[0]
+        score = reward_tensor.cpu().detach().item()
+    
     return score
 
 def gen_response_pipelined(model, prompt, max_new_tokens = 50):
